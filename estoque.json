@@ -1,0 +1,44 @@
+[
+  {
+    "nome": "teste",
+    "quantidade": 2,
+    "qualidadeDoProduto": "ok",
+    "localizacao": "vai"
+  },
+  {
+    "nome": "Motor",
+    "quantidade": 2,
+    "qualidadeDoProduto": "Boa",
+    "localizacao": "Sala de manutenção Eletrica"
+  },
+  {
+    "nome": "Porca",
+    "quantidade": 2,
+    "qualidadeDoProduto": "Boa",
+    "localizacao": "sala de manutenção"
+  },
+  {
+    "nome": "Martelo",
+    "quantidade": 2,
+    "qualidadeDoProduto": "Boa",
+    "localizacao": "sala manutenção"
+  },
+  {
+    "nome": "Parafusadeira",
+    "quantidade": 2,
+    "qualidadeDoProduto": "boa",
+    "localizacao": "sala manutenção"
+  },
+  {
+    "nome": "Compressor",
+    "quantidade": 1,
+    "qualidadeDoProduto": "Boa",
+    "localizacao": "Sala de manutenção mecânica"
+  },
+  {
+    "nome": "Martelete",
+    "quantidade": 2,
+    "qualidadeDoProduto": "Com defeito",
+    "localizacao": "Sala de manutenção Sorter"
+  }
+]
