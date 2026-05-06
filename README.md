@@ -1,7 +1,7 @@
 # Sistema de Controle de Estoque
 
 ## Descrição
-Desenvolvi este sistema em Java para gerenciar o controle de estoque de insumos, com foco específico no setor de manutenção industrial. O software organiza o fluxo de entrada e saída de materiais, visando garantir a integridade das informações e facilitar a consulta rápida de itens disponíveis.
+Desenvolvi este sistema em Java para gerenciar o controle de estoque, com foco específico no setor de manutenção industrial. O software organiza o fluxo de entrada e saída de materiais, visando garantir a integridade das informações e facilitar a consulta rápida de itens disponíveis.
 
 ## Tecnologias Utilizadas
 * **Java (JDK 17+)**: Linguagem utilizada para implementar a lógica de backend.
