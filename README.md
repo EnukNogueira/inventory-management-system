@@ -13,5 +13,3 @@ Desenvolvi este sistema em Java para gerenciar o controle de estoque, com foco e
 * Registro detalhado de movimentações de entrada e saída do almoxarifado.
 * Monitoramento de níveis de estoque para auxílio na reposição de materiais.
 
-## Objetivos de Evolução
-Atualmente, o projeto foca na lógica de negócio e persistência de dados. O próximo passo planejado é a implementação de uma API REST utilizando Java para permitir a integração com sistemas externos e interfaces modernas.
